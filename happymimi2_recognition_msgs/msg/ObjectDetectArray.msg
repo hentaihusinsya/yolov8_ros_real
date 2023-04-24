@@ -1,0 +1,1 @@
+happymimi2_recognition_msgs/ObjectDetect[] boxes
